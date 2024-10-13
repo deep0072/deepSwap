@@ -1,0 +1,20 @@
+{
+  "name": "deep_swap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/web3.js": "^1.95.3",
+    "axios": "^1.7.7",
+    "bigint-buffer": "^1.1.5",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
